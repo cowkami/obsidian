@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "290f5cb323da81f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0a3e3140e88707a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "how to manage my knowledge.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cb5beda3a07673b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b1aa7cc89d4a634",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89f45193360d17e9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e6e7727115734d09",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 186
+  },
+  "right": {
+    "id": "a06110a75ce72229",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9a1d7cc71258d67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e81f8b0ac1ed1fc2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "how to manage my knowledge.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f0a3e3140e88707a",
+  "lastOpenFiles": [
+    "how to manage my knowledge.md",
+    "Science vs Religion.md",
+    "Untitled.md"
+  ]
+}
