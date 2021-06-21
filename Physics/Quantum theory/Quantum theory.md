@@ -1,0 +1,3 @@
+# Quantum Theory
+
+[[Schrodinger equation]]
