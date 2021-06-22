@@ -17,5 +17,5 @@ $$
 - $\Psi(\mathbf{r}, t)$: wave function
 
 $$
-\bold{F}(\mathbf{r}, t) = - \mathrm{grad} V(\mathbf{r}, t)
+\mathbf{F}(\mathbf{r}, t) = - \mathrm{grad} V(\mathbf{r}, t)
 $$

@@ -1,3 +1,3 @@
-# Quantum Theory
+# Quantum mechanics
 
 [[Schrodinger equation]]
