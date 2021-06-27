@@ -3,5 +3,5 @@
 [[Mechanics]]
 [[Thermodynamics]]
 [[Theory of relativity]]
-[[Quantum theory]]
+[[Quantum mechanics]]
 [[Statistical Mechanics]]
