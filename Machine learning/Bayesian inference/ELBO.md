@@ -9,5 +9,5 @@ $$
 $$
 
 - $\mathbf{x}$: random variable
-- $\mathbf{z}$: latent random variable
+- $\mathbf{z}$: [[latent variable]]
 - $q_\phi(\mathbf{z})$: a distribution parameterized by $\phi$
