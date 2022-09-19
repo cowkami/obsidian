@@ -1,0 +1,4 @@
+# Philosophy
+
+[[Reductionism]]
+[[Relativism]]
